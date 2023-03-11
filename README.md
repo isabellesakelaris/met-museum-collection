@@ -45,7 +45,7 @@
 
 <h2>Assumptions and Questions for Further Inquiry</h2>
 <p>I personally found it interesting that the Met highlights oil paintings at such a high rate compared to other media. That particular finding brought up a few questions that may aid in a better understanding of what the Met deems a "highlight."</p>
-<h3>Assumptions</h3
+<h3>Assumptions</h3>
 <ul>
 <li>This project assumes that all works in the dataset are treated as equal—that is, since this dataset does not house data on every object in the Met's collection, it is likely that the musem has prioritized digitizing the metadata according to some internal criteria. For example, perhaps the metadata for the highlighted subset is complete but the general collections dataset is not. That would be relevant information!</li>
 <li>This project assumes that each department inputting metadata uses the same definitions for each field—however, over the course of the analysis, it became clear that the different departments use different fields. For example, the American Wing does not have any works for which they have listed an artwork classification—they only use the medium field, which is more specific.</li>
