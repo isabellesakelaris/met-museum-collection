@@ -19,3 +19,10 @@ highlights_df['Artist Display Name'].value_counts()
 highlights_df['Artist Nationality'].value_counts()
 highlights_df['Department'].value_counts()
 highlights_df['Classification'].value_counts()
+American_df = new_df[new_df['Department'] == 'The American Wing']
+American_df.shape
+American_df.head()
+American_df['Medium'].value_counts()
+highlights_df['Medium'].value_counts()
+oil_df = new_df[new_df['Medium'] == 'Oil on canvas']
+oil_df.shape
