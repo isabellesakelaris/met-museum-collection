@@ -54,7 +54,7 @@
 <h3>Questions</h3> 
 <ul>
 <li>What considerations does the museum take into account when sending works to one department or another? For example, a print by an American artist—in what instance would the work go to The American Wing vs. Prints and Drawings?</li>
-<li>Many wokrs in the Met's collection are not accounted for in the dataset. How does the museum prioritize which are included when? Is the work ongoing?</li>
+<li>Many works in the Met's collection are not accounted for in the dataset. How does the museum prioritize which are included when? Is the work ongoing?</li>
 <li>Do different departments at the museum keep track of different metadata? Do they have different definitions for the metadata?</li>
 <li>How does the museum decide which works are highlights? Is there strict criteria, or is the designation more at the department's discretion?</li>
 </ul>
