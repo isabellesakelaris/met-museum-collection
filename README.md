@@ -29,7 +29,7 @@
 <li>0.52% of all works in the dataset were considered highlights.</li>
 <li>72% of highlighted works were attributed to a known artist vs. 57% overall, meaning The Met highlighted works by known artists at a higher rate than works by unkown artists. (Note: This makes sense to me, since the smaller share of highlighted works by unknown artists may be due to a lack of resources resulting from age or historic bias. However, since works by unknown artists make up over a quarter of all highlighted works, the museum seems to be making a concerted effort to showcase works by unknown artists anyway.) </li>
 <li>14.64% of highlighted works were classified as paintings vs. 1.71% overall. Of those, most highlighted paintings were rendered in oil on canvas.</li>
-<li>Though "Amnerican" was the most common artist nationality in both datasets, the share of works by American artists was smaller in the highlighted collection. That is, the museum did not favor works by American artists when designating an artwork as "is highlight," at least on the basis of artist nationality alone.</li>
+<li>Though "American" was the most common artist nationality in both datasets, the share of works by American artists was smaller in the highlighted collection. That is, the museum did not favor works by American artists when designating an artwork as "is highlight," at least on the basis of artist nationality alone.</li>
 <li>Based on the findings above, I hypothesize that The American Wing has the most highlighted works of any department because it houses more works by known artists than the general collection (64% vs. 57% overall) and more paintings rendered in oil on canvas than the general collection (5.28% vs. 0.72% overall).</li>
 </ul>
 
