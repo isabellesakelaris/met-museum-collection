@@ -4,7 +4,7 @@
 <h2>General Collection Findings</h2>
 <ul>
 <li>As of March 10, 2023, there were 477,804 works in the dataset.</li>
-<li>43.09% of thoe works are unattributed to a specific artist.</li>
+<li>43.09% of those works were unattributed to a specific artist.</li>
 <li>The artist with the most works in the dataset was Walker Evans, with 7,505 attributed works.</li>
 <li>For works with a recorded Artist Nationality, 24.6% were by American Artists, which was the most commonly reported nationality.</li>
 <li>For works with a recorded Culture, the most common values were American, then French, then Greek/Attic.</li>
@@ -16,10 +16,10 @@
 <h2>"Is Highlight" Collection</h2>
 <ul>
 <li>As of March 10, 2023, there were 2,484 works marked "Is Highlight" in the dataset.</li>
-<li>27.81% of highlighted works were not attrubited to a known artist.</li>
+<li>27.81% of highlighted works were unattrubited to a known artist.</li>
 <li>The artists with the most highlighted works—12 each—were Winslow Homer and John Singer Sargent.</li>
 <li>391 out of 1,692 works with a recorded Artist Nationality were by American artists, which amounts to 23.1% of all highlighted works.</li>
-<li>17.47% of highlighted works belong to The American Wing, but of all the works belonging to the department, only 2.36% of them were considered highlights.</li>
+<li>17.47% of highlighted works belonged to The American Wing, but of all the works belonging to the department, only 2.36% were considered highlights.</li>
 <li>The department with the highest share of highlighted works was The Library, which was made up of 96.41% highlighted works.</li>
 <li>For works with a Classification, most were labeled paintings—262, or 14.64%. Only 49, or 2.74% were prints.</li>
 </ul>
@@ -34,13 +34,7 @@
 </ul>
 
 <h2>Conclusion </h2>
-<p>The Met's mission statement is as follows:<br /><br />"The Metropolitan Museum of Art collects, studies, conserves, and presents significant works of art across time and cultures in order to connect all people to creativity, knowledge, ideas, and one another."<br /><br />With such a large collection and comparatively limited exhibition space, museum staff must make decisions about which objects go "on view," under what conditions, and in what context. For example, when the European Paintings galleries reopened after a renovation in November 2023, some of the galleries were recurated, including gallery 639, which is now devoted to works "in process" such as <a href="https://www.metmuseum.org/art/collection/search/437819">my favorite Tinotretto</a>. In gallery 639, the museum staff have chosen to emphasize each artwork's unfinished state in order to teach the viewer about process. A more traditional approach might encourage the viewer to use the unfinsihed view of the work as a window into the artist's ideological or aesthetic vision and the way they work toward it instead. 
-  
-The art msuseum boards deem important enough to collect and preserve matters, as does the way musuem staff choose to display it. 
-
-
-</p>
-
+<p>The Met's mission statement is as follows:<br /><br />"The Metropolitan Museum of Art collects, studies, conserves, and presents significant works of art across time and cultures in order to connect all people to creativity, knowledge, ideas, and one another."<br /><br />With such a large collection and comparatively limited exhibition space, museum staff must make decisions about which objects go "on view," under what conditions, and in what context. For example, when the European Paintings galleries reopened after a renovation in November 2023, some of the galleries were recurated, including gallery 639, which is now devoted to works "in process" such as <a href="https://www.metmuseum.org/art/collection/search/437819">my favorite Tinotretto</a>. In gallery 639, the museum staff have chosen to emphasize each artwork's unfinished state in order to teach the viewer about process. A more traditional approach might encourage the viewer to use the unfinsihed view of the work as a window into the artist's ideological or aesthetic vision and the way they work toward it instead.<br/><br/>The art msuseum boards deem important enough to collect and preserve matters, as does the way musuem staff choose to display it. </p>
 
 <h2>Assumptions</h2>
 <ul>
